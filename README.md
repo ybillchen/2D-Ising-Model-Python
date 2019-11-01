@@ -18,4 +18,6 @@ Enjoy your time with Ising and Python! Suggestions and adjustments (as well as S
 
 A detailed introduction of Simulating 2D Ising Model is uploaded on ZHIHU. It is a Chinese version,  [click here](https://zhuanlan.zhihu.com/p/42629484) to view.
 
+Note: You'll probably need numpy and matplotlib.
+
 Created Nov. 1, 2019 by Bill in Beijing
