@@ -1,7 +1,7 @@
 """
 This file defines Ising Grid class
-Created: Mar 30, 2019
-Last Edited: April 3, 2019
+Created: Mar. 30, 2019
+Last Edited: Apr. 3, 2019
 By Bill
 """
 
