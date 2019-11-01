@@ -1,7 +1,7 @@
 """
 This file runs Ising simulation
-Created: Mar 30, 2019
-Last Edited: April 6, 2019
+Created: Mar. 30, 2019
+Last Edited: Apr. 6, 2019
 By Bill
 """
 
